@@ -1,0 +1,31 @@
+body{
+    padding:10px;
+    text-align: center;
+    background-color: lightgray;
+    border: 1px solid brown;
+    color: blue;
+  }
+  p.description{
+    color: red;
+    text-align: left;
+    border: 1px solid green;
+  }
+
+  /*.centre {
+      color: brown;
+      text-align: center;
+  }
+
+  div.questions {
+      border: solid 1px blue;
+  }
+
+  #synopsis {
+      background-color: yellow;
+  }
+
+  #quote {
+      padding: 20px;
+      line-height: 0.7em;
+      font-style: italic;
+  } */
